@@ -1,3 +1,18 @@
+!
+! Title: Porn Blacklist
+! Description: Liste de blocage DNS de sites pornographiques
+! Version: 0.1
+! Homepage: https://raw.githubusercontent.com/oOScuByOo/blacklist_web/refs/heads/main/porn.txt
+! Last modified: 2024-10-07T06:08:23.163Z
+!
+! Compiled by @ooscubyoo
+!
+!
+! Source name: Porn Blacklist
+! Source: https://raw.githubusercontent.com/oOScuByOo/blacklist_web
+!
+!
+!
 ||hqhole.com^
 ||hdsexdino.com^
 ||pornbigvideo.com^
